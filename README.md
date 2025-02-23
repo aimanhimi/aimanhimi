@@ -9,13 +9,13 @@ BSc in Computational Mathematics and Data Analysis. Currently conducting researc
 ## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![OpenCV](https://img.shields.io/badge/Computer%20Vision-%230059A8?style=for-the-badge&logo=opencv&logoColor=white)
-![OpenCV](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%230059A8?style=for-the-badge&logo=opencv&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aimanhimi&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=aimanhimi&theme=tokyonight)
 
 
 ## Contact
