@@ -3,7 +3,7 @@
 BSc in Computational Mathematics and Data Analysis. Currently conducting research at the **Computer Vision Center (CVC)** in the visual discomfort field. My work focuses on **Machine Learning** and **Data Science**.
 
 ## Current Projects
-- **Visual Discomfort Analysis**: Investigating spatial frequency distribution using advanced Fourier techniques.
+- **Visual Discomfort Analysis**: Investigating spatial frequency distribution using Fourier techniques.
 - **Aesthetic Image Prediction**: Developing an XGBoost model to evaluate and predict image aesthetic scores.
 
 ## Tech Stack
