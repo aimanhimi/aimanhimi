@@ -4,7 +4,7 @@ BSc in Computational Mathematics and Data Analysis. Currently conducting researc
 
 ## Current Projects
 - **Visual Discomfort Analysis**: Investigating spatial frequency distribution using Fourier techniques.
-- **Aesthetic Image Prediction**: Developing an XGBoost model to evaluate and predict image aesthetic scores.
+- **Aesthetic Image Prediction**: Developing a model to evaluate and predict image aesthetic scores.
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
