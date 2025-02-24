@@ -19,7 +19,7 @@ BSc in Computational Mathematics and Data Analysis. Currently conducting researc
 
 
 ## Contact
-- [email](mailto:aiman.himi0@gmail.com)
+- [aiman.himi0@gmail.com](mailto:aiman.himi0@gmail.com)
 
 
 <!--
